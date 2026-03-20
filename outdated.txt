@@ -1,0 +1,6 @@
+Package           Current        Wanted  Latest  Location                  Depended by
+debug               2.6.9         2.6.9   4.4.3  node_modules/debug        s26wa58sabaroche
+express            4.16.4        4.16.4   5.2.1  node_modules/express      s26wa58sabaroche
+http-errors         1.6.3         1.6.3   2.0.1  node_modules/http-errors  s26wa58sabaroche
+morgan              1.9.1         1.9.1  1.10.1  node_modules/morgan       s26wa58sabaroche
+pug          2.0.0-beta11  2.0.0-beta11   3.0.4  node_modules/pug          s26wa58sabaroche
